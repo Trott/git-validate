@@ -28,7 +28,7 @@
   "homepage": "https://github.com/nlf/git-validate",
   "devDependencies": {
     "code": "1.x.x",
-    "lab": "5.x.x",
+    "lab": "18.x.x",
     "mkdirp": "^0.5.0",
     "mock-fs": "^2.5.0",
     "rimraf": "2.x.x"
